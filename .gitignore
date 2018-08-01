@@ -3,3 +3,5 @@
 *.png
 *.pdf
 
+# Ignore notebook checkpoint files
+notebooks/.ipynb_checkpoints 
