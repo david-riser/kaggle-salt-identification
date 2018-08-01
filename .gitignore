@@ -1,4 +1,5 @@
 # Exclude images and graphics 
 *.jpg
+*.png
 *.pdf
 
