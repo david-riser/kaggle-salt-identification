@@ -5,3 +5,6 @@
 
 # Ignore notebook checkpoint files
 notebooks/.ipynb_checkpoints 
+
+# Files from PyCharm IDE
+*.idea* 
